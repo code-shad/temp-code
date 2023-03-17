@@ -1,0 +1,13 @@
+h1{
+color: red;
+}
+.Food {
+    background-color: aquamarine;
+}
+.Beads{
+    background-color: rgba(71, 46, 69, 0.548);
+}
+img:hover {
+    background-color: blueviolet;
+}
+a.hobbies:hover{background-color: red;}
